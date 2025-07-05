@@ -43,7 +43,6 @@ The dataset (`survey_data_project8.csv`) contains 30 responses with the followin
 - ✅ Pie Chart – Preferred features  
 - ✅ Heatmap – Correlation between numeric features  
 - ✅ Histogram – Satisfaction vs Gender using Plotly  
-- ✅ (Optional) Interactive Dashboard using Plotly or Streamlit
 
 ---
 
